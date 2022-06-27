@@ -160,3 +160,6 @@ response:
    ![Image alt](https://github.com/YehorSerdyuk/potsman/blob/main/img/7.png?raw=true)
    
    
+Run Collection:
+
+![Image alt](https://github.com/YehorSerdyuk/potsman/blob/main/img/Run%20Collection.png?raw=true)
